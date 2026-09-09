@@ -1,0 +1,8 @@
+Student Name: Ali
+Programming: 85
+Networking: 78
+Database: 90
+Mathematics: 82
+English: 75
+Total: 410
+Percentage: 82%
